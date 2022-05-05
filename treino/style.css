@@ -21,12 +21,14 @@ input{
     border-radius: 20px 0 0 20px;
     border: none;
 }
-.form{
-    margin: 130px 450px;
+.leo{
     background-color: #333;
     display: block;
     width: 300px;
     padding: 30px;
     border-radius: 20px;
     border: 2px solid #fff;
+    margin: auto;
+    margin-top: 10%;
+    
 }
